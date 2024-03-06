@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: vproapp
-        image: imranvisualpath/8pmtomappimg:v1
+        image: us-central1-docker.pkg.dev/tribal-archery-407506/tt-artifactory/img5:v1
         ports:
         - name: vproapp-port
           containerPort: 8080
