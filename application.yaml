@@ -7,7 +7,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/learnwithabhishek/argocd-project.git
+    repoURL: https://github.com/somnathp2757/argocd-project-for-k8s.git
     targetRevision: HEAD
     path: helm/vprofilecharts
   destination: 
