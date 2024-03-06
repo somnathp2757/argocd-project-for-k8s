@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: nginx:1.14.2
+        image: us-central1-docker.pkg.dev/tribal-archery-407506/tt-artifactory/img5:v1
         ports:
         - containerPort: 80
